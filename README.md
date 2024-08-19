@@ -1,4 +1,6 @@
-## Hi there 👋
+## E aí! Sou Júlia de Santana! =)
+
+<img align="center" alt="santana-link" src="https://cdn.discordapp.com/attachments/630463826323832853/1275167193839042602/legend-o-zelda-link.gif?ex=66c4e77e&is=66c395fe&hm=ced6f1a86cc84dd57cf62f50901fc1a17b8066616e1e4db46c8426ee8ce857e5&">
 
 <!--
 **santana-alt/santana-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
